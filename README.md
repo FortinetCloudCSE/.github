@@ -4,11 +4,11 @@
 
 This GitHub account serves as a living organizational location which references Fortinet solutions for cloud environments located in this GitHub account and other associated locations.
 
-The official Fortinet GitHub account is located at <a href="https://github.com/fortinet" target="_blank">github.com/fortinet</a>
+The official Fortinet GitHub account is located at [github.com/fortinet](https://external.ink?to=/https://github.com/fortinet)
 
-Fortinet public documentation is located at <a href="https://docs.fortinet.com" target="_blank">docs.fortinet.com</a>
+Fortinet public documentation is located at [docs.fortinet.com](https://external.ink?to=/https://docs.fortinet.com)
 
-Fortinet solution guides, white papers, etc for public cloud security are located at <a href="https://www.fortinet.com/solutions/enterprise-midsize-business/cloud-security" target="_blank">https://www.fortinet.com/solutions/enterprise-midsize-business/cloud-security</a>
+Fortinet solution guides, white papers, etc for public cloud security are located at [https://www.fortinet.com/solutions/enterprise-midsize-business/cloud-security](https://external.ink?to=/https://www.fortinet.com/solutions/enterprise-midsize-business/cloud-security)
 
 Please click on the links below for public cloud specific solutions:
 - [AWS](./AWS/README.md)
