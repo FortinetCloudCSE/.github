@@ -25,10 +25,10 @@ For other questions related to this account, contact  [FortinetCloudCSE@fortinet
 
 ## General Efforts and Status
 
-1. Our "101-getting started" and most-complete guide is here: https://fortinetsecdevops.github.io/DemoFrontEnd/
+1. Our "101-getting started" and most-complete guide is here: https://fortinetcloudcse.github.io/HugoGuidePage/
    - Following this will get you going with everything you need for a very good MVP0 
    - However, it's still an MVP0, and we do have a bit of development since then 
-2. We're working to consolidate and standardize all of our CSE content into this GH Account/Profile: https://github.com/FortinetCloudCSE
+2. We're working to consolidate and standardize all of our CSE content into this GH Organization: https://github.com/FortinetCloudCSE
    - Front/home readme page is live and WIP.  Many of the specific solutions link to various legacy GH accounts temporarily, until they get fully consolidated here 
    - Documentation and readme's are being updated continuously
 3. The most exciting recent development is a GitHub Template used to create new repos for a given workshop/use case/demo: https://github.com/FortinetCloudCSE/DemoFrontEndDocker
