@@ -46,24 +46,33 @@ For other questions related to this account, contact  [FortinetCloudCSE@fortinet
        - includes Central Repo for reusable & Fortinet customized Hugo componentry
        - Hugo already installed
      - Run container
-       - interactive CLI login
-       - Docker Disk-mounts for mapping of per-workshop content and Central REpo
+       - Docker Disk-mounts for mapping of per-workshop content alongside CentralRpo
      - Hugo: Content Creation & Build
        - add chapters/tasks/etc which help customers through TEC Workshops
-       - Hugo Build to create static HTML site from MD
      - GitHub Pages - publishing
        - Refresh local Git Repo/Branch
        - Push Branch to GH & Create a Pull-Request (PR)
        - Merge Feature Branch--> Main
-       - GitHub action auto publishes newly built Hugo content
+       - GitHub action runs our container to build Hugo and publish to GH pages
 
 ## TEC Workshop Revision History
 
-- MVP 1.1 - currently in dev
-  - reduce container size (likely Alpine or BusyBox)
-  - add auto Hugo publish via GitHub action
-  - eliminate need to store Huho Built static site (/public or /docs folder)
-- **MVP 1.0 - current**
+- MVP 1.2 - TBA
+  - GOAL
+    - ???
+  - Completed
+- **MVP 1.1 - June 2023**
+    - reduce container size (using Alpine to get shell.  BusyBox does not have shell)
+    - autopublish action on GitHub (run our container as GitHub action to perform Hugo build w/ CentralRepo)
+      - eliminates need to store Hugo static HTML (autopublish action directly publishes to GH pages)
+    - Move Shortcodes from CentralRepo to UserRepo
+    - Add CentralRepo/scripts/local_copy.sh to copy any local shortcodes or partials into container
+    - Modify logo.html to read Params for logoBanner & logoBannerColor
+    - Standardize themes and colors for Workshop, UseCase, Spotlight, Demo
+    - Modify Banner Text and Subtext to match theme and be customizable 
+    - Add ability to run container run in "build", "server", or "shell" mode
+    - Added Dev container env & workflow to stage and test changes before promoting to main/Prod
+- MVP 1.0 - May 2023
   - Separated UserRepo and Central Repo to allow maximum re-usability & future-proofing for style/format changes
     - Standard Repo has Fortinet reLearn theme Variant & all necessary customizations
   - Swap in Hugo ReLearn theme (actively community supported) and eliminate Learn & Notice themes (inactive development)
