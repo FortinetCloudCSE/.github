@@ -17,3 +17,4 @@ Below is a list of links to Fortinet Cloud TECWorkshops
     - [cFOS GKE Workshop](https://fortinetcloudcse.github.io/cFOS-GKE-Workshop)
     - [FortiDevSec SAST & DAST](https://fortinetcloudcse.github.io/FortiDevSec-Workshop)
     - [FortiGate Automation Stiches](https://fortinetcloudcse.github.io/fortigate-automation-stitch-workshop/index.html)
+    - [GCP - FortiGate Protecting Resources](https://fortinetcloudcse.github.io/GCP-FortiGate-protecting-resources/)
