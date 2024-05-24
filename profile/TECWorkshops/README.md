@@ -12,7 +12,8 @@ Below is a list of links to Fortinet Cloud TECWorkshops
     - [FortiWeb with ZTNA & FortiSoar](https://fortinetcloudcse.github.io/FortiWeb-Azure-ZTNA-FortiSoar/)
     - [FortiGate SDWAN Advanced Routing](https://fortinetcloudcse.github.io/advanced-routing-sdwan-azure/)
     - [Fortiweb ZTNA & FortiSOAR](https://fortinetcloudcse.github.io/FortiWeb-Azure-ZTNA-FortiSoar/)
-	- [Kubernetes and AKS in Azure](https://fortinetcloudcse.github.io/k8s-101-workshop/)
+	- [Kubernetes and AKS in Azure 101](https://fortinetcloudcse.github.io/k8s-101-workshop/)
+    - [Kubernetes and AKS in Azure 201](https://fortinetcloudcse.github.io/k8s-201-workshop/)
   - General
     - [cFOS GKE Workshop](https://fortinetcloudcse.github.io/cFOS-GKE-Workshop)
     - [FortiDevSec SAST & DAST](https://fortinetcloudcse.github.io/FortiDevSec-Workshop)
