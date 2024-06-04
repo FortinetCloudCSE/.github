@@ -7,7 +7,8 @@ Below is a list of links to Fortinet Cloud TECWorkshops
     - [FortiGate FGCP in AWS](https://fortinetcloudcse.github.io/FGCP-in-AWS/)
     - [FortiGate GWLB in AWS](https://fortinetcloudcse.github.io/GWLB-in-AWS/)
     - [Secure AWS workloads with FortiGate CNF](https://fortinetcloudcse.github.io/FortiGate-AWS-CNF-TEC-Workshop/)
-	- [FortiGate Auto Scale](https://fortinetcloudcse.github.io/FortiGate-AWS-Autoscale-TEC-Workshop/)
+    - [FortiGate Auto Scale](https://fortinetcloudcse.github.io/FortiGate-AWS-Autoscale-TEC-Workshop/)
+    - [FortiGate 101 Workshop in AWS](https://fortinetcloudcse.github.io/AWS-FGT-101/)
   - Azure
     - [FortiWeb with ZTNA & FortiSoar](https://fortinetcloudcse.github.io/FortiWeb-Azure-ZTNA-FortiSoar/)
     - [FortiGate SDWAN Advanced Routing](https://fortinetcloudcse.github.io/advanced-routing-sdwan-azure/)
