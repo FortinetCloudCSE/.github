@@ -3,6 +3,7 @@
 Below is a list of links to Fortinet Cloud TECWorkshops
 
   - AWS
+    - [FortiGate 201 Workshop in AWS](https://fortinetcloudcse.github.io/AWS-FGT-201/)
     - [FortiCNF on AWS Firewall-as-a-Service](https://fortinetcloudcse.github.io/FortiCNF/)
     - [FortiGate FGCP in AWS](https://fortinetcloudcse.github.io/FGCP-in-AWS/)
     - [FortiGate GWLB in AWS](https://fortinetcloudcse.github.io/GWLB-in-AWS/)
