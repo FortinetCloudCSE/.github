@@ -13,11 +13,11 @@ Fortinet public documentation is located at [docs.fortinet.com](https://docs.for
 Fortinet solution guides, white papers, etc for public cloud security are located at [https://www.fortinet.com/solutions/enterprise-midsize-business/cloud-security](https://www.fortinet.com/solutions/enterprise-midsize-business/cloud-security)
 
 Please click on the links below for public cloud specific solutions:
-- [TEC Workshops](profile/TECWorkshops/README.md)
-- [AWS](profile/AWS/README.md)
-- [Azure](profile/Azure/README.md)
-- [Google](profile/Google/README.md)
-- [Oracle](profile/Oracle/README.md)
+- [TEC Workshops](TECWorkshops/README.md)
+- [AWS](AWS/README.md)
+- [Azure](Azure/README.md)
+- [Google](Google/README.md)
+- [Oracle](Oracle/README.md)
   
 ## Support
 
