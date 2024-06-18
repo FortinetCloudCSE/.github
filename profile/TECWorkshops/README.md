@@ -11,6 +11,7 @@ Below is a list of links to Fortinet Cloud TECWorkshops
     - [FortiGate Auto Scale](https://fortinetcloudcse.github.io/FortiGate-AWS-Autoscale-TEC-Workshop/)
     - [FortiGate 101 Workshop in AWS](https://fortinetcloudcse.github.io/AWS-FGT-101/)
   - Azure
+    - [Azure](https://fortinetcloudcse.github.io/azure-302-vwan/)
     - [Azure](https://fortinetcloudcse.github.io/azure-202-advanced/)
     - [Azure](https://fortinetcloudcse.github.io/azure-102-foundational/)
     - [FortiWeb with ZTNA & FortiSoar](https://fortinetcloudcse.github.io/FortiWeb-Azure-ZTNA-FortiSoar/)
