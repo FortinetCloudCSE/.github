@@ -21,7 +21,7 @@ Below is a list of links to Fortinet Cloud TECWorkshops
     - [Kubernetes and AKS in Azure 201](https://fortinetcloudcse.github.io/k8s-201-workshop/)
     - [Kubernetes and AKS in Azure 202](https://fortinetcloudcse.github.io/k8s-202-workshop/)
   - General
-    - [cFOS GKE Workshop](https://fortinetcloudcse.github.io/cFOS-GKE-Workshop)
+    - [cFOS GKE Workshop](https://tec.myfortinet.com/cloud/cfos-gke-workshop/)
     - [FortiDevSec SAST & DAST](https://fortinetcloudcse.github.io/FortiDevSec-Workshop)
     - [FortiGate Automation Stiches](https://fortinetcloudcse.github.io/fortigate-automation-stitch-workshop/index.html)
     - [GCP - FortiGate Protecting Resources](https://fortinetcloudcse.github.io/GCP-FortiGate-protecting-resources/)
