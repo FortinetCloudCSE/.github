@@ -21,7 +21,7 @@ Below is a list of links to Fortinet Cloud TECWorkshops
     - [Kubernetes and AKS in Azure 101](https://fortinetcloudcse.github.io/k8s-101-workshop/)
     - [Kubernetes and AKS in Azure 201](https://fortinetcloudcse.github.io/k8s-201-workshop/)
     - [Kubernetes and AKS in Azure 202](https://fortinetcloudcse.github.io/k8s-202-workshop/)
-  FortiWeb & Web Services
+  - FortiWeb & Web Services
     - [API & Web Service Fundamentals 101](https://fortinetcloudcse.github.io/api-and-websvc-fundamentals/)
     - [Securing Web Services with FortiCloud 201](https://fortinetcloudcse.github.io/fortiweb-security-foundations-201/)
   - General
