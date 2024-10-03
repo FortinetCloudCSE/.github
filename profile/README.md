@@ -57,11 +57,23 @@ For other questions related to this account, contact  [FortinetCloudCSE@fortinet
 
 ## TEC Workshop Revision History
 
-- MVP 1.2 - TBA
-  - GOAL
-    - ???
-  - Completed
-- **MVP 1.1 - June 2023**
+- **MVP 1.2 - Oct 2024**
+  - Switched to new container base image from hugomods https://docker.hugomods.com/docs/introduction/
+    - continuous support for latest Hugo version releases
+    - Upgraded ReLearn theme to 6.0.0
+      - added features for tabbed content https://mcshelby.github.io/hugo-theme-relearn/shortcodes/tab/index.html
+  - Created a simplified/scripted procedure to convert workshop repos using older containers to the latest: https://mcshelby.github.io/hugo-theme-relearn/shortcodes/tab/index.html
+    - Container based scripting to to update local scripts https://github.com/FortinetCloudCSE/CentralRepo/blob/main/scripts/update_scripts.sh
+    - Add python and Jinja2 to container to facilitate templatized creation of site frontmatter (hugo.toml) : https://github.com/FortinetCloudCSE/CentralRepo/blob/main/scripts/generate_toml.py
+    - Revise container run scripts to allow new options and future updates https://github.com/FortinetCloudCSE/CentralRepo/blob/main/scripts/docker_run.sh
+  - Theme updates
+    - author customizable banners for Xperts2024
+    - copyright info on home page
+    - modify code highlighting color scheme to improve readability
+  - Analytics
+    - Add analytics capabilities to track site activity across entire Cloud TEC workshop catalog.
+    
+- MVP 1.1 - June 2023
     - reduce container size (using Alpine to get shell.  BusyBox does not have shell)
     - autopublish action on GitHub (run our container as GitHub action to perform Hugo build w/ CentralRepo)
       - eliminates need to store Hugo static HTML (autopublish action directly publishes to GH pages)
