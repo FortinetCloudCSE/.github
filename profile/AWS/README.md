@@ -6,11 +6,20 @@ Below is a list of links to CloudFormation Templates, Terraform Templates, scrip
   - FortiAnalyzer Standalone
       - [CloudFormation](https://github.com/FortinetCloudCSE/fortianalyzer-aws-standalone-cloudformation)
 	  - Terraform
+  - FortiAnalyzer HA Dual AZ
+      - [CloudFormation](https://github.com/FortinetCloudCSE/fortianalyzer-aws-ha-dualaz-cloudformation)
+	  - Terraform
   - FortiAnalyzer HA Single AZ
       - [CloudFormation](https://github.com/FortinetCloudCSE/fortianalyzer-aws-ha-singleaz-cloudformation)
 	  - Terraform
   - FortiManager Standalone
       - [CloudFormation](https://github.com/FortinetCloudCSE/fortimanager-aws-standalone-cloudformation)
+	  - Terraform
+  - FortiManager HA Dual AZ
+      - [CloudFormation](https://github.com/FortinetCloudCSE/fortimanager-aws-ha-dualaz-cloudformation)
+	  - Terraform
+  - FortiManager HA Single AZ
+      - [CloudFormation](https://github.com/FortinetCloudCSE/fortimanager-aws-ha-singleaz-cloudformation)
 	  - Terraform
   - FortiGate Standalone
       - [CloudFormation](https://github.com/hgaberra/fortigate-aws-standalone-cloudformation)
