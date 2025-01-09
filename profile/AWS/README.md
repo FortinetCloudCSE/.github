@@ -9,15 +9,16 @@ Below is a list of links to CloudFormation Templates, Terraform Templates, scrip
       - [CloudFormation](https://github.com/FortinetCloudCSE/fortianalyzer-aws-ha-dualaz-cloudformation)
   - FortiAnalyzer HA Single AZ
       - [CloudFormation](https://github.com/FortinetCloudCSE/fortianalyzer-aws-ha-singleaz-cloudformation)
+---
   - FortiManager Standalone
       - [CloudFormation](https://github.com/FortinetCloudCSE/fortimanager-aws-standalone-cloudformation)
   - FortiManager HA Dual AZ
       - [CloudFormation](https://github.com/FortinetCloudCSE/fortimanager-aws-ha-dualaz-cloudformation)
   - FortiManager HA Single AZ
       - [CloudFormation](https://github.com/FortinetCloudCSE/fortimanager-aws-ha-singleaz-cloudformation)
+---
   - FortiGate Standalone
       - [CloudFormation](https://github.com/hgaberra/fortigate-aws-standalone-cloudformation)
-
   - FortiGate FGCP HA Dual AZ
       - [FGCP in AWS use cases](https://fortinetcloudcse.github.io/FGCP-in-AWS/)
       - [CloudFormation](https://github.com/FortinetCloudCSE/fortigate-aws-ha-dualaz-cloudformation)
@@ -36,6 +37,7 @@ Below is a list of links to CloudFormation Templates, Terraform Templates, scrip
       - [CloudFormation](https://docs.fortinet.com/document/fortigate-public-cloud/6.4.0/aws-administration-guide/397979/deploying-auto-scaling-on-aws)
   - FortiGate Terraform Examples
       - [Terraform](https://github.com/fortinet/fortigate-terraform-deploy/tree/main/aws)
+---
   - FortiWeb HA
       - [CloudFormation](https://docs.fortinet.com/document/fortiweb-public-cloud/latest/use-case-high-availability-for-fortiweb-on-aws/556435/overview)
   - FortiWeb Auto Scale
