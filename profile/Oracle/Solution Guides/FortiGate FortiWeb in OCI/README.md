@@ -4,7 +4,7 @@
 
 This document is designed to help readers understand deployment of FortiGate and FortiWeb in OCI. It will describe VCN network setup and routing requirements necessary to deploy FortiGate in parallel with FortiWeb in a “Security Services VCN” within Oracle Cloud Infrastructure (OCI).
 
-![environment](env.png)
+![environment](env.svg)
 
 Figure 1: OCI Sample Environment
 
@@ -150,7 +150,7 @@ Figure 4: Edit Attachment
 
 Figure 5 below gives a big picture view of the resulting route tables.
 
-![Big Picture](big_picture.png)
+![Big Picture](big_picture.svg)
 
 Figure 5: Routing Big Picture
 
@@ -197,20 +197,21 @@ We will be using the metadata IAM for this example. This uses the device ID of t
 The below example shows “Advanced Type”, wich allows us to specify multiple server region types and compartments.
 
 ![Fortigate SDN Conn](fgt_sdn.png)
-
+![Fortigate SDN Conn 2](fgt_sdn2.png)
+![Fortigate SDN Conn 3](fgt_sdn3.png)
 Figure 6: FortiGate SDN Connector Configuration
 
 #### OCI Policy Configuration
 
 In order for the FortiGate IAM connector to work, we must configure a policy within OCI which allow access.
 
-The first step is to create a dynamic group under Identity > Domains > YourDomain > Dynamic Groups and then add the FortiGate’s instance OCID to the Matching rules.
+The first step is to create a dynamic group under Identity > Domains > YourDomain > Dynamic Groups and then create a group and add the FortiGate’s instance OCID to the Matching rules.  If you already have a group, you can just add the FortiGate's to it.
 
 ![Dynamic Group](dyn_grp.png)
 
 Figure 7: Configure Dynamic Group
 
-After the Group is configured, you must create a policy, which grants the necessary privileges to the Group. If SDN failover is required, you will need to specify the “manage” verb in the policy. This allows the SDN connector to move the IPs and routes. If you only need device metadata, you can use the “read” verb in your policy.
+After the Group is configured, you must create or modify a policy, which grants the necessary privileges to the Group. Navigate to Identity > Policies.  If SDN failover is required, you will need to specify the “manage” verb in the policy. This allows the SDN connector to move the IPs and routes. If you only need device metadata, you can use the “read” verb in your policy.
 
 ![OCI Policy](oci_pol.png)
 
