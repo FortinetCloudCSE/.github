@@ -1,4 +1,4 @@
-# Fortinet Cloud CSE Team Repo
+# Fortinet Cloud CSE Team Repos
 
 ## Overview
 
