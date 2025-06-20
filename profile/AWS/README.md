@@ -18,7 +18,7 @@ Below is a list of links to CloudFormation Templates, Terraform Templates, scrip
       - [CloudFormation](https://github.com/FortinetCloudCSE/fortimanager-aws-ha-singleaz-cloudformation)
 ---
   - FortiGate Standalone
-      - [CloudFormation](https://github.com/hgaberra/fortigate-aws-standalone-cloudformation)
+      - [CloudFormation](https://github.com/FortinetCloudCSE/fortigate-aws-standalone-cloudformation)
   - FortiGate FGCP HA Dual AZ
       - [FGCP in AWS use cases](https://fortinetcloudcse.github.io/FGCP-in-AWS/)
       - [CloudFormation](https://github.com/FortinetCloudCSE/fortigate-aws-ha-dualaz-cloudformation)
@@ -34,7 +34,7 @@ Below is a list of links to CloudFormation Templates, Terraform Templates, scrip
   - FortiGate FGCP HA Dual AZ & Transit Gateway Connect
       - [CloudFormation](https://github.com/hgaberra/fortigate-aws-tgwconnect-ha-dualaz-cloudformation)
   - FortiGate Auto Scale
-      - [CloudFormation](https://docs.fortinet.com/document/fortigate-public-cloud/6.4.0/aws-administration-guide/397979/deploying-auto-scaling-on-aws)
+      - [CloudFormation](https://docs.fortinet.com/document/fortigate-public-cloud/7.4.0/aws-administration-guide/397979/deploying-auto-scaling-on-aws)
   - FortiGate Terraform Examples
       - [Terraform](https://github.com/fortinet/fortigate-terraform-deploy/tree/main/aws)
 ---
