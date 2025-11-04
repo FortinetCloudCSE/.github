@@ -29,7 +29,11 @@ Below is a list of links to CloudFormation Templates, Terraform Templates, scrip
       - [GWLB in AWS use cases](https://fortinetcloudcse.github.io/GWLB-in-AWS/)
       - [CloudFormation](https://github.com/FortinetCloudCSE/fortigate-aws-gwlb-cloudformation)
 	  - [Terraform](https://github.com/FortinetCloudCSE/fortigate-aws-gwlb-terraform)
-  - FortiGate Active-Active AZ & VPC Route Server
+  - FortiGate Active-Active & Cloud WAN Tunnel-less Connect
+      - [CloudFormation](https://github.com/FortinetCloudCSE/fortigate-aws-cwanconnect-active-active-cloudformation)
+  - FortiGate FGCP HA Dual AZ & Cloud WAN Tunnel-less Connect
+      - [CloudFormation](https://github.com/FortinetCloudCSE/fortigate-aws-cwanconnect-ha-dual-az-cloudformation)
+  - FortiGate Active-Active & VPC Route Server
       - [CloudFormation](https://github.com/FortinetCloudCSE/fortigate-aws-vpc-routeserver-active-active-cloudformation)
   - FortiGate FGCP HA Dual AZ & VPC Route Server
       - [CloudFormation](https://github.com/FortinetCloudCSE/fortigate-aws-vpc-routeserver-ha-dual-az-cloudformation)
