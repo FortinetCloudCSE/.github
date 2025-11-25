@@ -12,8 +12,7 @@ Below is a list of links to Fortinet Cloud TECWorkshops
     - [FortiGate Auto Scale](https://fortinetcloudcse.github.io/FortiGate-AWS-Autoscale-TEC-Workshop/)
   - Azure
     - [Azure 102 Foundational](https://fortinetcloudcse.github.io/azure-102-foundational/)
-    - [Azure 202 Advanced](https://fortinetcloudcse.github.io/azure-202-advanced/)
-    - [Azure 302 VWAN](https://fortinetcloudcse.github.io/azure-302-vwan/)
+    - [Azure 202 FortiGate Secured Azure vWAN](https://fortinetcloudcse.github.io/azure-202-advanced/)
     - [FortiWeb with ZTNA & FortiSoar](https://fortinetcloudcse.github.io/FortiWeb-Azure-ZTNA-FortiSoar/)
     - [FortiGate SDWAN Advanced Routing](https://fortinetcloudcse.github.io/advanced-routing-sdwan-azure/)
     - [Fortiweb ZTNA & FortiSOAR](https://fortinetcloudcse.github.io/FortiWeb-Azure-ZTNA-FortiSoar/)
@@ -29,3 +28,9 @@ Below is a list of links to Fortinet Cloud TECWorkshops
     - [FortiDevSec SAST & DAST](https://fortinetcloudcse.github.io/FortiDevSec-Workshop)
     - [FortiGate Automation Stiches](https://fortinetcloudcse.github.io/fortigate-automation-stitch-workshop/index.html)
     - [GCP - FortiGate Protecting Resources](https://fortinetcloudcse.github.io/GCP-FortiGate-protecting-resources/)
+  - FortiADC
+    - [FortiADC Application inspection and routing with FortiADC](https://fortinetcloudcse.github.io/AppSec103-203-FortiADC/)
+  - FortiCNAPP
+    - [Intro to Cloud Native Security with Lacework FortiCNAPP](https://fortinetcloudcse.github.io/Public-Cloud-104-CNAPP/index.html)
+  - FortiDLP
+    - [Data Security and User Risk Analysis with FortiDLP](https://fortinetcloudcse.github.io/data-security-101/)
