@@ -34,3 +34,5 @@ Below is a list of links to Fortinet Cloud TECWorkshops
     - [Intro to Cloud Native Security with Lacework FortiCNAPP](https://fortinetcloudcse.github.io/Public-Cloud-104-CNAPP/index.html)
   - FortiDLP
     - [Data Security and User Risk Analysis with FortiDLP](https://fortinetcloudcse.github.io/data-security-101/)
+  - FortiFlex
+    - [Intro to FortiFlex & Building a FortiFlex backed Cloud Marketplace](https://fortinetcloudcse.github.io/PublicCloud105-FortiFlex/)
