@@ -10,6 +10,7 @@ Below is a list of links to Fortinet Cloud TECWorkshops
     - [FortiGate GWLB in AWS](https://fortinetcloudcse.github.io/GWLB-in-AWS/)
     - [Secure AWS workloads with FortiGate CNF](https://fortinetcloudcse.github.io/FortiGate-AWS-CNF-TEC-Workshop/)
     - [FortiGate Auto Scale](https://fortinetcloudcse.github.io/FortiGate-AWS-Autoscale-TEC-Workshop/)
+    - [FortiGate Autoscale Simplified](https://fortinetcloudcse.github.io/Autoscale-Simplified-Template/)
   - Azure
     - [Azure 102 Foundational](https://fortinetcloudcse.github.io/azure-102-foundational/)
     - [Azure 202 FortiGate Secured Azure vWAN](https://fortinetcloudcse.github.io/azure-202-advanced/)
