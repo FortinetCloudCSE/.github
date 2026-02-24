@@ -24,7 +24,7 @@ Below is a list of links to CloudFormation Templates, Terraform Templates, scrip
       - [CloudFormation](https://github.com/FortinetCloudCSE/fortigate-aws-ha-dualaz-cloudformation)
 	  - [Terraform](https://github.com/FortinetCloudCSE/fortigate-aws-ha-dualaz-terraform)
   - FortiGate FGCP HA Single AZ
-      - [CloudFormation](https://github.com/hgaberra/fortigate-aws-ha-singleaz-cloudformation)
+      - [CloudFormation](https://github.com/FortinetCloudCSE/fortigate-aws-ha-singleaz-cloudformation)
   - FortiGate & Gateway Load Balancer
       - [GWLB in AWS use cases](https://fortinetcloudcse.github.io/GWLB-in-AWS/)
       - [CloudFormation](https://github.com/FortinetCloudCSE/fortigate-aws-gwlb-cloudformation)
