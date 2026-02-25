@@ -15,6 +15,9 @@ Below is a list of links to Fortinet Cloud TECWorkshops
     - [Azure 102 Foundational](https://fortinetcloudcse.github.io/azure-102-foundational/)
     - [Azure 202 FortiGate Secured Azure vWAN](https://fortinetcloudcse.github.io/azure-202-advanced/)
     - [FortiWeb with ZTNA & FortiSoar](https://fortinetcloudcse.github.io/FortiWeb-Azure-ZTNA-FortiSoar/)
+  - Google Cloud Platform (GCP)
+    - [Public Cloud 221- GCP NCC Advanced Overlay Routing with FortiGate NVA](https://fortinetcloudcse.github.io/gcp-ncc-mrr-fortigate/)
+    - [Public Cloud 222- Fortigate Automation Stitch  with GCP Cloud Function](https://fortinetcloudcse.github.io/gcp-fgt-stitch-fun)
   - K8S
     - [Kubernetes and AKS in Azure 101](https://fortinetcloudcse.github.io/k8s-101-workshop/)
     - [Kubernetes and AKS in Azure 201](https://fortinetcloudcse.github.io/k8s-201-workshop/)
@@ -27,7 +30,6 @@ Below is a list of links to Fortinet Cloud TECWorkshops
     - [cFOS GKE Workshop](https://tec.myfortinet.com/cloud/cfos-gke-workshop/)
     - [FortiDevSec SAST & DAST](https://fortinetcloudcse.github.io/FortiDevSec-Workshop)
     - [FortiGate Automation Stiches](https://fortinetcloudcse.github.io/fortigate-automation-stitch-workshop/index.html)
-    - [GCP - FortiGate Protecting Resources](https://fortinetcloudcse.github.io/GCP-FortiGate-protecting-resources/)
   - FortiADC
     - [FortiADC Application inspection and routing with FortiADC](https://fortinetcloudcse.github.io/AppSec103-203-FortiADC/)
   - FortiCNAPP
