@@ -31,6 +31,7 @@ Below is a list of links to CloudFormation Templates, Terraform Templates, scrip
 	  - [Terraform](https://github.com/FortinetCloudCSE/fortigate-aws-gwlb-terraform)
   - FortiGate Active-Active & Cloud WAN Tunnel-less Connect
       - [CloudFormation](https://github.com/FortinetCloudCSE/fortigate-aws-cwanconnect-active-active-cloudformation)
+      - [Terraform](https://github.com/FortinetCloudCSE/fortigate-aws-cwanconnect-active-active-terraform)
   - FortiGate FGCP HA Dual AZ & Cloud WAN Tunnel-less Connect
       - [CloudFormation](https://github.com/FortinetCloudCSE/fortigate-aws-cwanconnect-ha-dualaz-cloudformation)
       - [Terraform](https://github.com/FortinetCloudCSE/fortigate-aws-cwanconnect-ha-dualaz-terraform)
