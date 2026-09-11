@@ -27,9 +27,8 @@ Below is a list of links to Fortinet Cloud TECWorkshops
     - [Securing Web Services with FortiCloud 201](https://fortinetcloudcse.github.io/fortiweb-security-foundations-201/)
     - [Protecting Modern Applications, APIs, and MCP Services with FortiWeb](https://fortinetcloudcse.github.io/fortiweb-api-mcp-protection/)
   - AI Workshops
-    - [AI Foundations - Building Supervised ML Models](https://fortinetcloudcse.github.io/genai-creator-lab/)
     - [AI 101 - Agents, MCP & the Agentic Security Model](https://github.com/FortinetCloudCSE/ai-101)
-    - [AI 301 - Building Supervised Models](https://fortinetcloudcse.github.io/genai-creator-lab/)
+    - [AI 301 - Building Supervised ML Models](https://fortinetcloudcse.github.io/genai-creator-lab/)
     - [AI 302 - Train your own small LLC](https://fortinetcloudcse.github.io/genai-creator-lab2/)
     - [FortiAIGate Introduction](https://fortinetcloudcse.github.io/faig-training-workshop/)
   - General
