@@ -25,9 +25,13 @@ Below is a list of links to Fortinet Cloud TECWorkshops
   - FortiWeb & Web Services
     - [API & Web Service Fundamentals 101](https://fortinetcloudcse.github.io/api-and-websvc-fundamentals/)
     - [Securing Web Services with FortiCloud 201](https://fortinetcloudcse.github.io/fortiweb-security-foundations-201/)
+    - [Protecting Modern Applications, APIs, and MCP Services with FortiWeb](https://fortinetcloudcse.github.io/fortiweb-api-mcp-protection/)
   - AI Workshops
     - [AI Foundations - Building Supervised ML Models](https://fortinetcloudcse.github.io/genai-creator-lab/)
     - [AI 101 - Agents, MCP & the Agentic Security Model](https://github.com/FortinetCloudCSE/ai-101)
+    - [AI 301 - Building Supervised Models](https://fortinetcloudcse.github.io/genai-creator-lab/)
+    - [AI 302 - Train your own small LLC](https://fortinetcloudcse.github.io/genai-creator-lab2/)
+    - [FortiAIGate Introduction](https://fortinetcloudcse.github.io/faig-training-workshop/)
   - General
     - [cFOS GKE Workshop](https://tec.myfortinet.com/cloud/cfos-gke-workshop/)
     - [FortiDevSec SAST & DAST](https://fortinetcloudcse.github.io/FortiDevSec-Workshop)
@@ -36,6 +40,7 @@ Below is a list of links to Fortinet Cloud TECWorkshops
     - [FortiADC Application inspection and routing with FortiADC](https://fortinetcloudcse.github.io/AppSec103-203-FortiADC/)
   - FortiCNAPP
     - [Intro to Cloud Native Security with Lacework FortiCNAPP](https://fortinetcloudcse.github.io/Public-Cloud-104-CNAPP/index.html)
+    - [CNAP 111 - Reducing Risk](https://fortinetcloudcse.github.io/Reducing-Risk-111-CNAPP/index.html)
   - FortiDLP
     - [Data Security and User Risk Analysis with FortiDLP](https://fortinetcloudcse.github.io/data-security-101/)
   - FortiFlex
