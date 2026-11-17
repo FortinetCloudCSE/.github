@@ -37,6 +37,7 @@ Below is a list of links to Fortinet Cloud TECWorkshops
     - [FortiGate Automation Stiches](https://fortinetcloudcse.github.io/fortigate-automation-stitch-workshop/index.html)
   - FortiADC
     - [FortiADC Application inspection and routing with FortiADC](https://fortinetcloudcse.github.io/AppSec103-203-FortiADC/)
+    - [FortiADC - GSLB](https://fortinetcloudcse.github.io/FortiADC-GSLB/)
   - FortiCNAPP
     - [Intro to Cloud Native Security with Lacework FortiCNAPP](https://fortinetcloudcse.github.io/Public-Cloud-104-CNAPP/index.html)
     - [CNAP 111 - Reducing Risk](https://fortinetcloudcse.github.io/Reducing-Risk-111-CNAPP/index.html)
